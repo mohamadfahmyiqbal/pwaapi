@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Bandicoot, southern brown","category":"Puce"},
+{"id":2,"name":"Anteater, australian spiny","category":"Blue"},
+{"id":3,"name":"Dove, emerald-spotted wood","category":"Blue"},
+{"id":4,"name":"Eleven-banded armadillo (unidentified)","category":"Puce"},
+{"id":5,"name":"Swainson's francolin","category":"Green"},
+{"id":6,"name":"Beaver, north american","category":"Yellow"},
+{"id":7,"name":"Kingfisher, pied","category":"Green"},
+{"id":8,"name":"Squirrel, smith's bush","category":"Maroon"},
+{"id":9,"name":"Snowy egret","category":"Yellow"},
+{"id":10,"name":"Trumpeter swan","category":"Crimson"},
+{"id":11,"name":"Wombat, common","category":"Fuscia"},
+{"id":12,"name":"Cat, toddy","category":"Maroon"},
+{"id":13,"name":"Otter, north american river","category":"Pink"},
+{"id":14,"name":"Buffalo, american","category":"Crimson"},
+{"id":15,"name":"Cape Barren goose","category":"Khaki"},
+{"id":16,"name":"Dragonfly, russian","category":"Mauv"},
+{"id":17,"name":"Campo flicker","category":"Violet"},
+{"id":18,"name":"Pademelon, red-legged","category":"Mauv"},
+{"id":19,"name":"Greylag goose","category":"Purple"},
+{"id":20,"name":"Rattlesnake, horned","category":"Violet"}
+]
+}
